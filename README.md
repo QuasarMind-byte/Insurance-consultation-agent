@@ -1,6 +1,1 @@
-🎯 目标
-- 掌握Agent原理
-- 掌握RAG原理
-- 掌握LangChain的常用组件
-- 掌握LangGraph的用法
-- 能利用LangChain、LangGraph开发Agent和RAG系统
+**《安心保》商城还提供了AI智能保险顾问，可以协助用户选购保险、产品答疑、解释条款、指引理赔。**
